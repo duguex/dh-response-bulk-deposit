@@ -1,0 +1,254 @@
+{
+  "base": "/home/duguex/defect_research/repos/HamGNN/examples/charged/npz/Perf_chg0.npz",
+  "n_geom": 20,
+  "amplitude_A": 0.02,
+  "seed": 20260819,
+  "probes": [
+    60,
+    28,
+    7,
+    32
+  ],
+  "center": [
+    10.682905197143555,
+    10.682905197143555,
+    10.682905197143555
+  ],
+  "manifest": "/tmp/dh_bulk_manifest_regen.yaml",
+  "geometries": [
+    {
+      "stem": "Perf",
+      "path": "/home/duguex/defect_research/repos/HamGNN/examples/charged/npz/Perf_chg0.npz",
+      "ops": [],
+      "max_atom_disp_A": 0.0
+    },
+    {
+      "stem": "Bulk01",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk01_chg0.npz",
+      "ops": [
+        {
+          "atom": 60,
+          "axis": 0,
+          "delta_A": 0.017913897850991272
+        }
+      ],
+      "max_atom_disp_A": 0.017913897850991845
+    },
+    {
+      "stem": "Bulk02",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk02_chg0.npz",
+      "ops": [
+        {
+          "atom": 60,
+          "axis": 1,
+          "delta_A": -0.01621574466257391
+        }
+      ],
+      "max_atom_disp_A": 0.01621574466257414
+    },
+    {
+      "stem": "Bulk03",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk03_chg0.npz",
+      "ops": [
+        {
+          "atom": 60,
+          "axis": 2,
+          "delta_A": 0.016859312846835627
+        }
+      ],
+      "max_atom_disp_A": 0.01685931284683484
+    },
+    {
+      "stem": "Bulk04",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk04_chg0.npz",
+      "ops": [
+        {
+          "atom": 28,
+          "axis": 0,
+          "delta_A": -0.018639179635106598
+        }
+      ],
+      "max_atom_disp_A": 0.018639179635107084
+    },
+    {
+      "stem": "Bulk05",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk05_chg0.npz",
+      "ops": [
+        {
+          "atom": 28,
+          "axis": 1,
+          "delta_A": 0.01831570792219383
+        }
+      ],
+      "max_atom_disp_A": 0.01831570792219317
+    },
+    {
+      "stem": "Bulk06",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk06_chg0.npz",
+      "ops": [
+        {
+          "atom": 28,
+          "axis": 2,
+          "delta_A": -0.018794909296721226
+        }
+      ],
+      "max_atom_disp_A": 0.01879490929672123
+    },
+    {
+      "stem": "Bulk07",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk07_chg0.npz",
+      "ops": [
+        {
+          "atom": 7,
+          "axis": 0,
+          "delta_A": 0.018159509623899246
+        }
+      ],
+      "max_atom_disp_A": 0.01815950962389934
+    },
+    {
+      "stem": "Bulk08",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk08_chg0.npz",
+      "ops": [
+        {
+          "atom": 7,
+          "axis": 1,
+          "delta_A": -0.01985659790569415
+        }
+      ],
+      "max_atom_disp_A": 0.019856597905693718
+    },
+    {
+      "stem": "Bulk09",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk09_chg0.npz",
+      "ops": [
+        {
+          "atom": 7,
+          "axis": 2,
+          "delta_A": 0.01730846380223247
+        }
+      ],
+      "max_atom_disp_A": 0.017308463802232055
+    },
+    {
+      "stem": "Bulk10",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk10_chg0.npz",
+      "ops": [
+        {
+          "atom": 32,
+          "axis": 0,
+          "delta_A": -0.01710974444951797
+        }
+      ],
+      "max_atom_disp_A": 0.01710974444951797
+    },
+    {
+      "stem": "Bulk11",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk11_chg0.npz",
+      "ops": [
+        {
+          "atom": 32,
+          "axis": 1,
+          "delta_A": 0.016598321584409142
+        }
+      ],
+      "max_atom_disp_A": 0.016598321584409142
+    },
+    {
+      "stem": "Bulk12",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk12_chg0.npz",
+      "ops": [
+        {
+          "atom": 32,
+          "axis": 2,
+          "delta_A": -0.01911453542629926
+        }
+      ],
+      "max_atom_disp_A": 0.01911453542629926
+    },
+    {
+      "stem": "Bulk13",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk13_chg0.npz",
+      "ops": [
+        {
+          "atom": 0,
+          "axis": 0,
+          "delta_A": 0.015589969264187492
+        }
+      ],
+      "max_atom_disp_A": 0.015589969264187431
+    },
+    {
+      "stem": "Bulk14",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk14_chg0.npz",
+      "ops": [
+        {
+          "atom": 0,
+          "axis": 1,
+          "delta_A": -0.018315413216645624
+        }
+      ],
+      "max_atom_disp_A": 0.01831541321664565
+    },
+    {
+      "stem": "Bulk15",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk15_chg0.npz",
+      "ops": [
+        {
+          "atom": 0,
+          "axis": 2,
+          "delta_A": 0.014788342232410935
+        }
+      ],
+      "max_atom_disp_A": 0.0147883422324111
+    },
+    {
+      "stem": "Bulk16",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk16_chg0.npz",
+      "ops": [
+        {
+          "atom": 1,
+          "axis": 0,
+          "delta_A": -0.016733708872561714
+        }
+      ],
+      "max_atom_disp_A": 0.01673370887256187
+    },
+    {
+      "stem": "Bulk17",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk17_chg0.npz",
+      "ops": [
+        {
+          "atom": 1,
+          "axis": 1,
+          "delta_A": 0.017167153254446458
+        }
+      ],
+      "max_atom_disp_A": 0.017167153254446177
+    },
+    {
+      "stem": "Bulk18",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk18_chg0.npz",
+      "ops": [
+        {
+          "atom": 1,
+          "axis": 2,
+          "delta_A": -0.018731066013599685
+        }
+      ],
+      "max_atom_disp_A": 0.01873106601359975
+    },
+    {
+      "stem": "Bulk19",
+      "path": "/home/duguex/defect_research/repos/slurm-4090-guide/.worktrees/dh-response-paper/data/npz/Bulk19_chg0.npz",
+      "ops": [
+        {
+          "atom": 2,
+          "axis": 0,
+          "delta_A": 0.01898827023566623
+        }
+      ],
+      "max_atom_disp_A": 0.01898827023566696
+    }
+  ]
+}
