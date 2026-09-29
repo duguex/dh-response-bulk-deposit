@@ -1,0 +1,190 @@
+{
+  "charges": {
+    "-3": 0.703857738286744,
+    "-6": 1119155.8863316532,
+    "0": 0.709110820766667,
+    "3": 0.7082564490004528,
+    "6": 52029.12384219757
+  },
+  "conditions": {
+    "defect_class_condition_passed": true,
+    "fold_condition_passed": true,
+    "global_relative_error_passed": true,
+    "grouped_median_relative_error": 0.7327349052602954,
+    "pointwise_h_band": [
+      2.34,
+      7.02
+    ],
+    "pointwise_h_band_inclusive": true,
+    "pointwise_h_condition_passed": false,
+    "pointwise_h_mae_mev": 9185777.267485501,
+    "pointwise_h_mae_normal": false,
+    "qualifying_defect_classes": [
+      "interstitial",
+      "substitution",
+      "vacancy"
+    ],
+    "qualifying_folds": 5,
+    "required_qualifying_defect_classes": 2,
+    "required_qualifying_folds": 4,
+    "threshold": 0.5,
+    "threshold_operator": ">",
+    "total_folds": 5
+  },
+  "defect_classes": {
+    "interstitial": 0.7063888952674435,
+    "substitution": 52186.94937966888,
+    "vacancy": 0.7295574890347207
+  },
+  "folds": [
+    {
+      "ci95": [
+        0.7057317290045958,
+        0.7331732730704068
+      ],
+      "fold": 0,
+      "median_relative_frobenius_error": 0.7149549435624132,
+      "n_components": 108,
+      "n_stems": 3,
+      "n_structures": 9
+    },
+    {
+      "ci95": [
+        0.6965699240387488,
+        38227.07104960909
+      ],
+      "fold": 1,
+      "median_relative_frobenius_error": 0.7009090291003981,
+      "n_components": 108,
+      "n_stems": 3,
+      "n_structures": 9
+    },
+    {
+      "ci95": [
+        40698.77604763911,
+        61711.035891596315
+      ],
+      "fold": 2,
+      "median_relative_frobenius_error": 46020.546215327035,
+      "n_components": 108,
+      "n_stems": 3,
+      "n_structures": 9
+    },
+    {
+      "ci95": [
+        0.7178227750703763,
+        81660.78964098138
+      ],
+      "fold": 3,
+      "median_relative_frobenius_error": 0.7303661774730692,
+      "n_components": 108,
+      "n_stems": 3,
+      "n_structures": 9
+    },
+    {
+      "ci95": [
+        56688.226365887116,
+        103857.35730442751
+      ],
+      "fold": 4,
+      "median_relative_frobenius_error": 77934.5814016891,
+      "n_components": 108,
+      "n_stems": 3,
+      "n_structures": 9
+    }
+  ],
+  "gate": "G0",
+  "overall": {
+    "derivative_norm_ratio": {
+      "ci95": [
+        0.5401406286529024,
+        41907.80632205539
+      ],
+      "iqr": 73395.8068781161,
+      "mean": 287328.06943312386,
+      "median": 0.5568093811712109,
+      "n_resamples": 10000,
+      "n_stems": 15,
+      "n_values": 540,
+      "seed": 20260715
+    },
+    "dh_mae_mev_per_angstrom": {
+      "ci95": [
+        3.796239270391164,
+        593504.5897107702
+      ],
+      "iqr": 945901.8113844014,
+      "mean": 3708205.886033722,
+      "median": 4.0527899362957385,
+      "n_resamples": 10000,
+      "n_stems": 15,
+      "n_values": 540,
+      "seed": 20260715
+    },
+    "frobenius_cosine_similarity": {
+      "ci95": [
+        0.045524575312646316,
+        0.7306509403069186
+      ],
+      "iqr": 0.7194348820490408,
+      "mean": 0.4384594666873197,
+      "median": 0.695989824219077,
+      "n_resamples": 10000,
+      "n_stems": 15,
+      "n_values": 540,
+      "seed": 20260715
+    },
+    "pointwise_h_mae_mev": {
+      "ci95": [
+        1.0872717544767925,
+        1264794.5895464183
+      ],
+      "iqr": 1969202.8291210514,
+      "mean": 8573392.165633013,
+      "median": 1.5300387608267343,
+      "n_resamples": 10000,
+      "n_stems": 15,
+      "n_values": 540,
+      "seed": 20260715
+    },
+    "relative_frobenius_error": {
+      "ci95": [
+        0.7110511089166407,
+        41907.81644197687
+      ],
+      "iqr": 73395.59838451871,
+      "mean": 287328.17234043457,
+      "median": 0.7327349052602954,
+      "n_resamples": 10000,
+      "n_stems": 15,
+      "n_values": 540,
+      "seed": 20260715
+    }
+  },
+  "passed": false,
+  "provenance": {
+    "cache_manifest_sha256": "01544576300c2658de4109882b15b969b1c88088f8ccd302099ab45b5c76c6a7",
+    "cache_root": "/mnt/shared/work/dh_response_labels_v2",
+    "phase": "main",
+    "source_manifest": null
+  },
+  "schema": "dh-response-g0-verdict-v1",
+  "used": {
+    "bootstrap": {
+      "n_resamples": 10000,
+      "seed": 20260715
+    },
+    "delta_angstrom": 0.001,
+    "grouped_median_relative_frobenius_error": 0.7327349052602954,
+    "pointwise_h_band": [
+      2.34,
+      7.02
+    ],
+    "pointwise_h_mae_mev_active_elements": 8300187.754980995,
+    "pointwise_h_mae_mev_defect_macro": 9185777.267485501,
+    "sample_count": 540,
+    "stem_count": 15,
+    "structure_count": 45
+  },
+  "verdict": "NO-GO"
+}

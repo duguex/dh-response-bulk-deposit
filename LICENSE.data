@@ -1,0 +1,12 @@
+Data license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+All data files in this deposit (contents of `data/`) are licensed under
+CC BY 4.0. Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+You are free to share and adapt the data for any purpose, including
+commercially, provided you give appropriate credit to the authors
+(see CITATION.cff), provide a link to the license, and indicate if
+changes were made.
+
+Software files (`scripts/`, `figures/`, `config/`) are licensed separately
+under the MIT license — see LICENSE.code.

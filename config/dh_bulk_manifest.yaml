@@ -1,0 +1,303 @@
+delta_angstrom: 0.001
+probe_atoms_per_structure: 4
+axes:
+- 0
+- 1
+- 2
+seed: 20260819
+campaign: track_b_bulk_perf_displacement_cloud_v1
+base_graph: /home/duguex/slurm-4090-guide/data/npz/Perf_chg0.npz
+notes: Track B bulk (ADR-0006). Perfect-cell geometries only; charge=0. Stem Perf
+  = identity Perf_chg0; Bulk** = displaced. Probes fixed to historical Perf_chg0 set.
+folds:
+  '0':
+    stems:
+    - Perf
+    - Bulk05
+    - Bulk10
+    - Bulk15
+  '1':
+    stems:
+    - Bulk01
+    - Bulk06
+    - Bulk11
+    - Bulk16
+  '2':
+    stems:
+    - Bulk02
+    - Bulk07
+    - Bulk12
+    - Bulk17
+  '3':
+    stems:
+    - Bulk03
+    - Bulk08
+    - Bulk13
+    - Bulk18
+  '4':
+    stems:
+    - Bulk04
+    - Bulk09
+    - Bulk14
+    - Bulk19
+structures:
+  Perf:
+  - charge: 0
+    path: data/npz/Perf_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk01:
+  - charge: 0
+    path: data/bulk_perf/Bulk01_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk02:
+  - charge: 0
+    path: data/bulk_perf/Bulk02_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk03:
+  - charge: 0
+    path: data/bulk_perf/Bulk03_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk04:
+  - charge: 0
+    path: data/bulk_perf/Bulk04_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk05:
+  - charge: 0
+    path: data/bulk_perf/Bulk05_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk06:
+  - charge: 0
+    path: data/bulk_perf/Bulk06_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk07:
+  - charge: 0
+    path: data/bulk_perf/Bulk07_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk08:
+  - charge: 0
+    path: data/bulk_perf/Bulk08_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk09:
+  - charge: 0
+    path: data/bulk_perf/Bulk09_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk10:
+  - charge: 0
+    path: data/bulk_perf/Bulk10_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk11:
+  - charge: 0
+    path: data/bulk_perf/Bulk11_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk12:
+  - charge: 0
+    path: data/bulk_perf/Bulk12_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk13:
+  - charge: 0
+    path: data/bulk_perf/Bulk13_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk14:
+  - charge: 0
+    path: data/bulk_perf/Bulk14_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk15:
+  - charge: 0
+    path: data/bulk_perf/Bulk15_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk16:
+  - charge: 0
+    path: data/bulk_perf/Bulk16_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk17:
+  - charge: 0
+    path: data/bulk_perf/Bulk17_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk18:
+  - charge: 0
+    path: data/bulk_perf/Bulk18_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect
+  Bulk19:
+  - charge: 0
+    path: data/bulk_perf/Bulk19_chg0.npz
+    probe_atoms:
+    - 60
+    - 28
+    - 7
+    - 32
+    defect_center:
+    - 10.682905197143555
+    - 10.682905197143555
+    - 10.682905197143555
+    defect_kind: perfect

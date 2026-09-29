@@ -1,0 +1,23 @@
+{
+  "schema": "dh-response-uni-static-admission-v1",
+  "status": "basis_mismatch",
+  "verdict": "NO-GO",
+  "job_id": 26545,
+  "host": "gpu_cluster",
+  "date": "2026-08-17",
+  "structure_id": "As_Ga_chg0",
+  "doping_charge": 0,
+  "target_orbitals": 19,
+  "target_flattened_matrix_width": 361,
+  "universal_expected_orbitals": 26,
+  "universal_flattened_matrix_width": 676,
+  "failure": "RuntimeError: The size of tensor a (676) must match the size of tensor b (361) at non-singleton dimension 1 when Uni-HamGNN adds data.Hon0.",
+  "interpretation": "Uni-HamGNN cannot consume the 19-orbital M4/OpenMX graph representation. No Hamiltonian, level, derivative, or cross-model accuracy metric was produced; a basis conversion or a 26-orbital OpenMX reference graph is required before a universal-model comparison is admissible.",
+  "inputs": {
+    "graph": "/dssg/home/liumingzhe/hamgnn-zenodo/models/hamgnn-q/As_Ga_chg0.npz",
+    "graph_sha256": "b127a961eda1902a2259b968bf21a1df153f85e5e444acc293d99e90b20bab26",
+    "model": "/dssg/home/liumingzhe/hamgnn-zenodo/models/uni-soc/uni-hamgnn_2_1.pkl",
+    "model_sha256": "5d0257a54dd1c026c08fa29adc537cf0023def1560361da964d289102ec36b06",
+    "non_soc_branch": true
+  }
+}

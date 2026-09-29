@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Data and software for: Calibrating Machine-Learned Electronic Hamiltonians against Derivatives"
+authors:
+  - family-names: Liu
+    given-names: Mingzhe
+  - family-names: Duan
+    given-names: Chang-Kui
+    orcid: # add if available
+repository-code: # fill with Zenodo record URL after upload
+license: CC-BY-4.0
+type: dataset
+keywords:
+  - machine-learned Hamiltonians
+  - derivative supervision
+  - electron-phonon coupling
+  - tight-binding
+  - gallium arsenide
+notes: >-
+  Software components (scripts/, figures/, config/) are released under the MIT
+  license (LICENSE.code); data components (data/) under CC-BY-4.0 (LICENSE.data).
+  Accompanies manuscript ct-2026-02052b, J. Chem. Theory Comput. (under review).

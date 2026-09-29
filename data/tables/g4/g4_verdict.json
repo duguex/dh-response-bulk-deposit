@@ -1,0 +1,302 @@
+{
+  "charges": {
+    "-3": {
+      "h_pred_norm_median": 27.873321080825093,
+      "h_pred_norm_min_max": [
+        26.88026342898574,
+        28.474449148086386
+      ],
+      "n_infinite_set_distance": 0,
+      "n_structures": 5,
+      "ordering_fidelity_median": 1.0,
+      "set_distance_median_mev": 87.00600891225713
+    },
+    "-6": {
+      "h_pred_norm_median": 5481550.330742225,
+      "h_pred_norm_min_max": [
+        26.63630332445787,
+        7337096.88793878
+      ],
+      "n_infinite_set_distance": 9,
+      "n_structures": 10,
+      "ordering_fidelity_median": 1.0,
+      "set_distance_median_mev": null
+    },
+    "0": {
+      "h_pred_norm_median": 27.26387886495624,
+      "h_pred_norm_min_max": [
+        26.396051213860847,
+        28.428587169656765
+      ],
+      "n_infinite_set_distance": 2,
+      "n_structures": 15,
+      "ordering_fidelity_median": 1.0,
+      "set_distance_median_mev": 98.90193390801542
+    },
+    "3": {
+      "h_pred_norm_median": 27.838932852404266,
+      "h_pred_norm_min_max": [
+        26.83217075048475,
+        28.46972462615805
+      ],
+      "n_infinite_set_distance": 2,
+      "n_structures": 5,
+      "ordering_fidelity_median": 1.0,
+      "set_distance_median_mev": 122.64812768650768
+    },
+    "6": {
+      "h_pred_norm_median": 204098.1142714108,
+      "h_pred_norm_min_max": [
+        26.57988250360042,
+        424137.6009656275
+      ],
+      "n_infinite_set_distance": 9,
+      "n_structures": 10,
+      "ordering_fidelity_median": 1.0,
+      "set_distance_median_mev": null
+    }
+  },
+  "conditions": {
+    "defect_class_condition_passed": false,
+    "fraction_condition_passed": false,
+    "fraction_qualified": 0.0,
+    "n_qualifying_stems": 0,
+    "n_total_stems": 15,
+    "qualifying_defect_classes": [],
+    "required_qualifying_defect_classes": 2,
+    "required_qualifying_fraction": 0.8,
+    "threshold_ordering_fidelity": 0.8,
+    "threshold_set_distance_mev": 20.0
+  },
+  "gate": "G4",
+  "passed": false,
+  "provenance": {
+    "cache_root": "/mnt/shared/work/dh_response_labels_v2",
+    "manifest_sha256": "3f25e1e5ae726b0ede529c8ae1d4619f1ff22cbbcc15154c57805e7aeab9cd29",
+    "pred_root": "/mnt/shared/work/dh_response_g0_pred"
+  },
+  "schema": "dh-response-g4-verdict-v1",
+  "stems": [
+    {
+      "defect_kind": "substitution",
+      "fold": 1,
+      "median_ordering_fidelity": 1.0,
+      "median_set_distance_mev": null,
+      "qualifies": false,
+      "set_distance_infinite_in_stem": 2,
+      "set_distances_mev": [
+        null,
+        61.08694812023137,
+        null
+      ],
+      "stem": "As_Ga"
+    },
+    {
+      "defect_kind": "substitution",
+      "fold": 2,
+      "median_ordering_fidelity": 1.0,
+      "median_set_distance_mev": null,
+      "qualifies": false,
+      "set_distance_infinite_in_stem": 2,
+      "set_distances_mev": [
+        null,
+        96.64197072075757,
+        null
+      ],
+      "stem": "Ga_As"
+    },
+    {
+      "defect_kind": "interstitial",
+      "fold": 1,
+      "median_ordering_fidelity": 1.0,
+      "median_set_distance_mev": 59.3544686387556,
+      "qualifies": false,
+      "set_distance_infinite_in_stem": 0,
+      "set_distances_mev": [
+        59.3544686387556,
+        146.74495085388202,
+        17.54747060132993
+      ],
+      "stem": "IAs"
+    },
+    {
+      "defect_kind": "interstitial",
+      "fold": 4,
+      "median_ordering_fidelity": 1.0,
+      "median_set_distance_mev": null,
+      "qualifies": false,
+      "set_distance_infinite_in_stem": 2,
+      "set_distances_mev": [
+        null,
+        122.54872178727032,
+        null
+      ],
+      "stem": "IAs-IAs"
+    },
+    {
+      "defect_kind": "interstitial",
+      "fold": 1,
+      "median_ordering_fidelity": 1.0,
+      "median_set_distance_mev": null,
+      "qualifies": false,
+      "set_distance_infinite_in_stem": 2,
+      "set_distances_mev": [
+        108.44389586230773,
+        null,
+        null
+      ],
+      "stem": "IGa"
+    },
+    {
+      "defect_kind": "interstitial",
+      "fold": 4,
+      "median_ordering_fidelity": 1.0,
+      "median_set_distance_mev": null,
+      "qualifies": false,
+      "set_distance_infinite_in_stem": 2,
+      "set_distances_mev": [
+        null,
+        172.69712550469376,
+        null
+      ],
+      "stem": "IGa-IAs"
+    },
+    {
+      "defect_kind": "interstitial",
+      "fold": 3,
+      "median_ordering_fidelity": 1.0,
+      "median_set_distance_mev": null,
+      "qualifies": false,
+      "set_distance_infinite_in_stem": 2,
+      "set_distances_mev": [
+        null,
+        20.82547619512161,
+        null
+      ],
+      "stem": "IGa-IGa"
+    },
+    {
+      "defect_kind": "substitution",
+      "fold": 4,
+      "median_ordering_fidelity": 1.0,
+      "median_set_distance_mev": null,
+      "qualifies": false,
+      "set_distance_infinite_in_stem": 2,
+      "set_distances_mev": [
+        null,
+        98.90193390801542,
+        null
+      ],
+      "stem": "IGa-VAs"
+    },
+    {
+      "defect_kind": "perfect",
+      "fold": 0,
+      "median_ordering_fidelity": 1.0,
+      "median_set_distance_mev": null,
+      "qualifies": false,
+      "set_distance_infinite_in_stem": 2,
+      "set_distances_mev": [
+        87.00600891225713,
+        null,
+        null
+      ],
+      "stem": "Perf"
+    },
+    {
+      "defect_kind": "vacancy",
+      "fold": 0,
+      "median_ordering_fidelity": 1.0,
+      "median_set_distance_mev": 64.61767922027933,
+      "qualifies": false,
+      "set_distance_infinite_in_stem": 0,
+      "set_distances_mev": [
+        110.24026233668198,
+        64.61767922027933,
+        33.457528028261315
+      ],
+      "stem": "VAs"
+    },
+    {
+      "defect_kind": "vacancy",
+      "fold": 2,
+      "median_ordering_fidelity": 1.0,
+      "median_set_distance_mev": null,
+      "qualifies": false,
+      "set_distance_infinite_in_stem": 2,
+      "set_distances_mev": [
+        null,
+        71.93406000127945,
+        null
+      ],
+      "stem": "VAs-VAs"
+    },
+    {
+      "defect_kind": "vacancy",
+      "fold": 3,
+      "median_ordering_fidelity": 1.0,
+      "median_set_distance_mev": 108.88964125945486,
+      "qualifies": false,
+      "set_distance_infinite_in_stem": 0,
+      "set_distances_mev": [
+        108.88964125945486,
+        272.1708908061722,
+        32.26816757445738
+      ],
+      "stem": "VAs-VGa"
+    },
+    {
+      "defect_kind": "vacancy",
+      "fold": 0,
+      "median_ordering_fidelity": 1.0,
+      "median_set_distance_mev": 75.60261207837013,
+      "qualifies": false,
+      "set_distance_infinite_in_stem": 0,
+      "set_distances_mev": [
+        75.60261207837013,
+        67.18568576371476,
+        122.64812768650768
+      ],
+      "stem": "VGa"
+    },
+    {
+      "defect_kind": "substitution",
+      "fold": 3,
+      "median_ordering_fidelity": 1.0,
+      "median_set_distance_mev": null,
+      "qualifies": false,
+      "set_distance_infinite_in_stem": 2,
+      "set_distances_mev": [
+        null,
+        60.85241348027603,
+        null
+      ],
+      "stem": "VGa-IAs"
+    },
+    {
+      "defect_kind": "vacancy",
+      "fold": 2,
+      "median_ordering_fidelity": 1.0,
+      "median_set_distance_mev": null,
+      "qualifies": false,
+      "set_distance_infinite_in_stem": 2,
+      "set_distances_mev": [
+        null,
+        112.30522811204575,
+        null
+      ],
+      "stem": "VGa-VGa"
+    }
+  ],
+  "used": {
+    "band_edge_buffer_factor": 2.0,
+    "delta_angstrom": 0.001,
+    "hmae_mev": 4.68,
+    "n_resamples": 10000,
+    "near_degenerate_mev": 5.0,
+    "seed": 20260715,
+    "stem_count": 15,
+    "structure_count": 45
+  },
+  "verdict": "NO-GO"
+}

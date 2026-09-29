@@ -1,0 +1,9 @@
+test structures: ['Bulk04_chg0', 'Bulk09_chg0', 'Bulk14_chg0', 'Bulk19_chg0']
+  extracted Bulk04_chg0: 12 components
+  extracted Bulk09_chg0: 12 components
+  extracted Bulk14_chg0: 12 components
+  extracted Bulk19_chg0: 12 components
+[frozen] {"cbm": {"n": 48, "mae_eV_per_A": 0.000754130195544476, "median_rel": 9.747620775808421, "corr": 0.5239319512263366, "sign_agree": 0.5625, "norm_ratio_rms": 4.388015702893421}, "vsum": {"n": 48, "mae_eV_per_A": 0.0007165973570281699, "median_rel": 2.9209796634259595, "corr": 0.7611652968001885, "sign_agree": 0.6458333333333334, "norm_ratio_rms": 1.4928042366941305}, "W_relerr_median": 0.12499581775357566, "W_relerr_p25": 0.12420684364263207, "W_relerr_p75": 0.12601087672262604, "noise_floor_median": 0.0027204092613879213}
+[h_only] {"cbm": {"n": 48, "mae_eV_per_A": 0.0007519659188766046, "median_rel": 9.544897835475846, "corr": 0.2729227556667055, "sign_agree": 0.5833333333333334, "norm_ratio_rms": 3.805514778178411}, "vsum": {"n": 48, "mae_eV_per_A": 0.000697737909562199, "median_rel": 2.189191528254464, "corr": 0.6966701410138683, "sign_agree": 0.5625, "norm_ratio_rms": 1.4192281652538765}, "W_relerr_median": 0.12751188482270817, "W_relerr_p25": 0.12663631403405565, "W_relerr_p75": 0.12793954688967177, "noise_floor_median": 0.002671732504125615}
+[joint] {"cbm": {"n": 48, "mae_eV_per_A": 0.0011562922071363196, "median_rel": 11.936480895027358, "corr": -0.698747226709743, "sign_agree": 0.4583333333333333, "norm_ratio_rms": 6.880117239418263}, "vsum": {"n": 48, "mae_eV_per_A": 0.0015551546340136654, "median_rel": 4.6300121822355855, "corr": 0.6213893989600694, "sign_agree": 0.4791666666666667, "norm_ratio_rms": 3.375107824801981}, "W_relerr_median": 0.050919711952828614, "W_relerr_p25": 0.04975759992897891, "W_relerr_p75": 0.05273900451123738, "noise_floor_median": 0.003953310366572132}
+wrote docs/analysis/dh_response/bulk_band_response/eval.json
