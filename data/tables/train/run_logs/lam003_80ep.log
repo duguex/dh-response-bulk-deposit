@@ -1,0 +1,87 @@
+split: train 12 structures / val 4 / test 4
+/home/duguex/.conda/envs/hamgnn_v2.0_env/lib/python3.11/site-packages/torch/cuda/__init__.py:1074: UserWarning: Can't initialize NVML
+  raw_cnt = _raw_device_count_nvml()
+loaded /mnt/shared/work/dh_response_g1a/g1a_embq_fix_r2.ckpt (emb_q torch.Size([24, 64]))
+epoch    1 | 284.5s | train H 0.0024 d 0.7044 | val H 0.0015 d 0.7000
+epoch    2 | 256.8s | train H 0.0010 d 0.6958
+epoch    3 | 258.1s | train H 0.0007 d 0.6870
+epoch    4 | 258.5s | train H 0.0006 d 0.6778
+epoch    5 | 286.9s | train H 0.0007 d 0.6683 | val H 0.0007 d 0.6630
+epoch    6 | 255.9s | train H 0.0006 d 0.6584
+epoch    7 | 255.1s | train H 0.0008 d 0.6481
+epoch    8 | 254.8s | train H 0.0007 d 0.6376
+epoch    9 | 255.3s | train H 0.0005 d 0.6268
+epoch   10 | 286.9s | train H 0.0006 d 0.6157 | val H 0.0007 d 0.6095
+epoch   11 | 257.0s | train H 0.0008 d 0.6043
+epoch   12 | 255.9s | train H 0.0007 d 0.5929
+epoch   13 | 256.0s | train H 0.0006 d 0.5816
+epoch   14 | 258.0s | train H 0.0006 d 0.5702
+epoch   15 | 289.5s | train H 0.0005 d 0.5590 | val H 0.0006 d 0.5530
+epoch   16 | 258.0s | train H 0.0006 d 0.5478
+epoch   17 | 256.8s | train H 0.0006 d 0.5370
+epoch   18 | 257.6s | train H 0.0008 d 0.5264
+epoch   19 | 258.9s | train H 0.0009 d 0.5162
+epoch   20 | 289.6s | train H 0.0009 d 0.5065 | val H 0.0010 d 0.5013
+epoch   21 | 257.9s | train H 0.0009 d 0.4969
+epoch   22 | 256.9s | train H 0.0009 d 0.4877
+epoch   23 | 256.5s | train H 0.0006 d 0.4786
+epoch   24 | 258.1s | train H 0.0007 d 0.4697
+epoch   25 | 290.9s | train H 0.0009 d 0.4610 | val H 0.0007 d 0.4562
+epoch   26 | 258.8s | train H 0.0010 d 0.4524
+epoch   27 | 257.0s | train H 0.0006 d 0.4439
+epoch   28 | 255.8s | train H 0.0007 d 0.4355
+epoch   29 | 259.0s | train H 0.0009 d 0.4273
+epoch   30 | 288.0s | train H 0.0011 d 0.4191 | val H 0.0007 d 0.4148
+epoch   31 | 260.3s | train H 0.0008 d 0.4111
+epoch   32 | 256.9s | train H 0.0009 d 0.4032
+epoch   33 | 256.5s | train H 0.0007 d 0.3956
+epoch   34 | 256.2s | train H 0.0009 d 0.3882
+epoch   35 | 287.4s | train H 0.0010 d 0.3811 | val H 0.0007 d 0.3772
+epoch   36 | 259.4s | train H 0.0007 d 0.3742
+epoch   37 | 257.7s | train H 0.0007 d 0.3675
+epoch   38 | 255.1s | train H 0.0007 d 0.3611
+epoch   39 | 254.7s | train H 0.0009 d 0.3551
+epoch   40 | 285.8s | train H 0.0010 d 0.3492 | val H 0.0011 d 0.3463
+epoch   41 | 256.7s | train H 0.0009 d 0.3438
+epoch   42 | 257.5s | train H 0.0007 d 0.3387
+epoch   43 | 256.9s | train H 0.0009 d 0.3338
+epoch   44 | 257.4s | train H 0.0011 d 0.3291
+epoch   45 | 288.5s | train H 0.0008 d 0.3245 | val H 0.0011 d 0.3221
+epoch   46 | 256.4s | train H 0.0010 d 0.3203
+epoch   47 | 255.8s | train H 0.0007 d 0.3163
+epoch   48 | 255.2s | train H 0.0009 d 0.3125
+epoch   49 | 255.6s | train H 0.0009 d 0.3088
+epoch   50 | 291.7s | train H 0.0007 d 0.3053 | val H 0.0007 d 0.3034
+epoch   51 | 285.4s | train H 0.0007 d 0.3019
+epoch   52 | 288.7s | train H 0.0009 d 0.2986
+epoch   53 | 264.3s | train H 0.0011 d 0.2954
+epoch   54 | 259.6s | train H 0.0007 d 0.2925
+epoch   55 | 289.4s | train H 0.0008 d 0.2897 | val H 0.0009 d 0.2881
+epoch   56 | 259.5s | train H 0.0008 d 0.2869
+epoch   57 | 259.6s | train H 0.0009 d 0.2843
+epoch   58 | 257.9s | train H 0.0011 d 0.2817
+epoch   59 | 257.1s | train H 0.0007 d 0.2792
+epoch   60 | 290.4s | train H 0.0007 d 0.2769 | val H 0.0007 d 0.2756
+epoch   61 | 259.8s | train H 0.0008 d 0.2746
+epoch   62 | 255.3s | train H 0.0009 d 0.2723
+epoch   63 | 255.2s | train H 0.0009 d 0.2701
+epoch   64 | 257.4s | train H 0.0011 d 0.2680
+epoch   65 | 288.8s | train H 0.0007 d 0.2659 | val H 0.0007 d 0.2650
+epoch   66 | 262.3s | train H 0.0008 d 0.2641
+epoch   67 | 257.1s | train H 0.0009 d 0.2621
+epoch   68 | 256.9s | train H 0.0011 d 0.2601
+epoch   69 | 255.9s | train H 0.0010 d 0.2583
+epoch   70 | 286.3s | train H 0.0009 d 0.2566 | val H 0.0010 d 0.2558
+epoch   71 | 256.8s | train H 0.0009 d 0.2549
+epoch   72 | 256.4s | train H 0.0007 d 0.2531
+epoch   73 | 257.6s | train H 0.0009 d 0.2515
+epoch   74 | 259.8s | train H 0.0009 d 0.2498
+epoch   75 | 293.4s | train H 0.0009 d 0.2482 | val H 0.0008 d 0.2474
+epoch   76 | 259.5s | train H 0.0010 d 0.2467
+epoch   77 | 260.8s | train H 0.0009 d 0.2452
+epoch   78 | 259.3s | train H 0.0008 d 0.2437
+epoch   79 | 261.3s | train H 0.0007 d 0.2423
+epoch   80 | 290.9s | train H 0.0009 d 0.2409 | val H 0.0008 d 0.2402
+
+test (folds [4]): H rel-err 0.0008 dH/dR rel-err 0.2401
+wrote /mnt/shared/work/dh_response_bulk_train/phase3/lam003_80ep/lam003_final.ckpt (best_val 0.0080)

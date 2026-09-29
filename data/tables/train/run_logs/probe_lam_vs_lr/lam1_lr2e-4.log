@@ -1,0 +1,45 @@
+split: train 12 structures / val 4 / test 4
+loaded /mnt/shared/work/dh_response_bulk_train/phase3/lam10_chain/lam10_best.ckpt (emb_q torch.Size([24, 64]))
+epoch    1 | 280.3s | train H 0.0235 d 0.5169 | val H 0.0419 d 0.2838
+epoch    2 | 248.8s | train H 0.0492 d 0.2247
+epoch    3 | 248.8s | train H 0.0499 d 0.1544
+epoch    4 | 248.5s | train H 0.0412 d 0.1294
+epoch    5 | 278.1s | train H 0.0301 d 0.1204 | val H 0.0253 d 0.1171
+epoch    6 | 248.4s | train H 0.0228 d 0.1147
+epoch    7 | 248.1s | train H 0.0185 d 0.1097
+epoch    8 | 248.1s | train H 0.0154 d 0.1058
+epoch    9 | 248.5s | train H 0.0132 d 0.1026
+epoch   10 | 277.8s | train H 0.0114 d 0.1000 | val H 0.0106 d 0.0988
+epoch   11 | 248.6s | train H 0.0100 d 0.0979
+epoch   12 | 247.8s | train H 0.0089 d 0.0961
+epoch   13 | 247.7s | train H 0.0079 d 0.0945
+epoch   14 | 248.2s | train H 0.0071 d 0.0931
+epoch   15 | 277.8s | train H 0.0064 d 0.0917 | val H 0.0061 d 0.0908
+epoch   16 | 248.3s | train H 0.0059 d 0.0906
+epoch   17 | 248.5s | train H 0.0055 d 0.0894
+epoch   18 | 248.8s | train H 0.0051 d 0.0884
+epoch   19 | 248.1s | train H 0.0050 d 0.0874
+epoch   20 | 277.7s | train H 0.0048 d 0.0864 | val H 0.0047 d 0.0858
+epoch   21 | 248.1s | train H 0.0046 d 0.0855
+epoch   22 | 248.8s | train H 0.0045 d 0.0847
+epoch   23 | 248.2s | train H 0.0045 d 0.0839
+epoch   24 | 248.6s | train H 0.0044 d 0.0831
+epoch   25 | 278.5s | train H 0.0043 d 0.0823 | val H 0.0043 d 0.0819
+epoch   26 | 249.0s | train H 0.0043 d 0.0817
+epoch   27 | 248.5s | train H 0.0043 d 0.0809
+epoch   28 | 248.8s | train H 0.0042 d 0.0803
+epoch   29 | 248.3s | train H 0.0043 d 0.0796
+epoch   30 | 278.1s | train H 0.0043 d 0.0791 | val H 0.0043 d 0.0784
+epoch   31 | 248.7s | train H 0.0042 d 0.0785
+epoch   32 | 248.8s | train H 0.0043 d 0.0779
+epoch   33 | 248.1s | train H 0.0042 d 0.0772
+epoch   34 | 248.4s | train H 0.0043 d 0.0767
+epoch   35 | 278.5s | train H 0.0043 d 0.0761 | val H 0.0042 d 0.0757
+epoch   36 | 248.5s | train H 0.0043 d 0.0756
+epoch   37 | 249.0s | train H 0.0043 d 0.0750
+epoch   38 | 248.5s | train H 0.0043 d 0.0744
+epoch   39 | 248.7s | train H 0.0043 d 0.0739
+epoch   40 | 277.7s | train H 0.0043 d 0.0733 | val H 0.0043 d 0.0728
+
+test (folds [4]): H rel-err 0.0043 dH/dR rel-err 0.0726
+wrote /mnt/shared/work/dh_response_bulk_train/phase3/probe_lam_vs_lr/lam1_lr2e-4/lam1_lr2e-4_final.ckpt (best_val 0.0772)

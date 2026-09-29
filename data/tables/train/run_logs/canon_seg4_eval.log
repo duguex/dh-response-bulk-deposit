@@ -1,0 +1,12 @@
+/home/duguex/.conda/envs/hamgnn_v2.0_env/lib/python3.11/site-packages/torch/cuda/__init__.py:1074: UserWarning: Can't initialize NVML
+  raw_cnt = _raw_device_count_nvml()
+[seg4_0715] train: H mean=0.0045 med=0.0045 | dH mean=0.0612 med=0.0629
+[seg4_0715] val: H mean=0.0045 med=0.0045 | dH mean=0.0609 med=0.0630
+[seg4_0715] test: H mean=0.0045 med=0.0045 | dH mean=0.0606 med=0.0629
+[seg4_0821] train: H mean=0.0045 med=0.0045 | dH mean=0.0625 med=0.0648
+[seg4_0821] val: H mean=0.0045 med=0.0045 | dH mean=0.0623 med=0.0648
+[seg4_0821] test: H mean=0.0045 med=0.0045 | dH mean=0.0620 med=0.0648
+[seg4_0820] train: H mean=0.0032 med=0.0032 | dH mean=0.0832 med=0.0866
+[seg4_0820] val: H mean=0.0032 med=0.0032 | dH mean=0.0830 med=0.0872
+[seg4_0820] test: H mean=0.0032 med=0.0032 | dH mean=0.0828 med=0.0865
+wrote /mnt/shared/work/dh_response_bulk_train/phase3/canon_seg4_eval.json

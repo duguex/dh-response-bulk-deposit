@@ -1,0 +1,47 @@
+split: train 12 structures / val 4 / test 4
+/home/duguex/.conda/envs/hamgnn_v2.0_env/lib/python3.11/site-packages/torch/cuda/__init__.py:1074: UserWarning: Can't initialize NVML
+  raw_cnt = _raw_device_count_nvml()
+loaded /mnt/shared/work/dh_response_bulk_train/phase3/cont40_lr1e-4/cont_best.ckpt (emb_q torch.Size([24, 64]))
+epoch    1 | 280.0s | train H 0.0018 d 0.1836 | val H 0.0014 d 0.1832
+epoch    2 | 249.2s | train H 0.0012 d 0.1829
+epoch    3 | 250.1s | train H 0.0011 d 0.1823
+epoch    4 | 250.6s | train H 0.0010 d 0.1817
+epoch    5 | 281.3s | train H 0.0010 d 0.1811 | val H 0.0011 d 0.1808
+epoch    6 | 250.8s | train H 0.0010 d 0.1805
+epoch    7 | 251.4s | train H 0.0010 d 0.1799
+epoch    8 | 250.2s | train H 0.0010 d 0.1792
+epoch    9 | 250.5s | train H 0.0010 d 0.1785
+epoch   10 | 279.9s | train H 0.0010 d 0.1779 | val H 0.0011 d 0.1775
+epoch   11 | 250.8s | train H 0.0010 d 0.1772
+epoch   12 | 250.7s | train H 0.0010 d 0.1766
+epoch   13 | 251.5s | train H 0.0010 d 0.1759
+epoch   14 | 251.5s | train H 0.0010 d 0.1752
+epoch   15 | 281.5s | train H 0.0010 d 0.1746 | val H 0.0011 d 0.1741
+epoch   16 | 250.9s | train H 0.0010 d 0.1739
+epoch   17 | 249.2s | train H 0.0010 d 0.1732
+epoch   18 | 251.5s | train H 0.0010 d 0.1726
+epoch   19 | 250.3s | train H 0.0010 d 0.1719
+epoch   20 | 280.2s | train H 0.0011 d 0.1712 | val H 0.0011 d 0.1708
+epoch   21 | 252.2s | train H 0.0011 d 0.1706
+epoch   22 | 253.7s | train H 0.0011 d 0.1699
+epoch   23 | 252.0s | train H 0.0011 d 0.1693
+epoch   24 | 251.6s | train H 0.0011 d 0.1686
+epoch   25 | 281.3s | train H 0.0011 d 0.1680 | val H 0.0011 d 0.1677
+epoch   26 | 252.5s | train H 0.0011 d 0.1674
+epoch   27 | 251.1s | train H 0.0011 d 0.1667
+epoch   28 | 250.8s | train H 0.0011 d 0.1661
+epoch   29 | 251.2s | train H 0.0011 d 0.1654
+epoch   30 | 283.4s | train H 0.0011 d 0.1648 | val H 0.0011 d 0.1644
+epoch   31 | 252.4s | train H 0.0011 d 0.1641
+epoch   32 | 252.2s | train H 0.0011 d 0.1636
+epoch   33 | 252.6s | train H 0.0011 d 0.1630
+epoch   34 | 252.3s | train H 0.0011 d 0.1624
+epoch   35 | 283.6s | train H 0.0011 d 0.1618 | val H 0.0011 d 0.1615
+epoch   36 | 253.7s | train H 0.0011 d 0.1612
+epoch   37 | 252.6s | train H 0.0011 d 0.1607
+epoch   38 | 253.0s | train H 0.0011 d 0.1601
+epoch   39 | 251.9s | train H 0.0011 d 0.1595
+epoch   40 | 281.2s | train H 0.0011 d 0.1589 | val H 0.0011 d 0.1586
+
+test (folds [4]): H rel-err 0.0011 dH/dR rel-err 0.1586
+wrote /mnt/shared/work/dh_response_bulk_train/phase3/cont80_lr3e-5/cont2_final.ckpt (best_val 0.0169)

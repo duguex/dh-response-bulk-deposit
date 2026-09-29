@@ -1,0 +1,4210 @@
+{
+  "arms": {
+    "frozen": {
+      "ckpt": "/mnt/shared/work/dh_response_g1a/g1a_embq_fix_r2.ckpt",
+      "splits": {
+        "test": {
+          "H_relfro_mean": 0.0043463590937145346,
+          "H_relfro_median": 0.004346979555170903,
+          "dH_relfro_mean": 0.7076364084589463,
+          "dH_relfro_median": 0.707634704296902,
+          "n": 4,
+          "structures": [
+            {
+              "H_relfro": 0.004347633372564381,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7089103638377654
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.708952632954692
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7089776017016441
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.7063792330446477
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7063592869946703
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.7063679439838749
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7063176963750912
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7062947985050657
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7063062872865609
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.7089678330955611
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7089949227593321
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7089695604700263
+                }
+              ],
+              "dH_relfro_mean": 0.7076498467507442,
+              "fold": 4,
+              "structure_id": "Bulk04_chg0"
+            },
+            {
+              "H_relfro": 0.004342430239976809,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7089749176895909
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.708986015603465
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7089476473231812
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.70634650042424
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7062927018869937
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.7062814133938841
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7062874483372016
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7063115539467979
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7062878629512116
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.708923289814622
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7089581205762674
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7089123202910277
+                }
+              ],
+              "dH_relfro_mean": 0.7076258160198736,
+              "fold": 4,
+              "structure_id": "Bulk09_chg0"
+            },
+            {
+              "H_relfro": 0.004346325737777424,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7089640457890141
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.7089610662859095
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7089409876446551
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.7063352500535185
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7063321177448226
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.706342241128208
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.706312428598259
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7062852481987901
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7062816225537032
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.7089933241078366
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7088901755491563
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7089901588061005
+                }
+              ],
+              "dH_relfro_mean": 0.7076357222049978,
+              "fold": 4,
+              "structure_id": "Bulk14_chg0"
+            },
+            {
+              "H_relfro": 0.004349047024539525,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7090039123221433
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.7090172153380676
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7090090189563707
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.706349155494976
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7063455015600205
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.7063288490588612
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7062697769482611
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7062516220717667
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7062994127452453
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.7089204479351524
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7089059132556286
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7089101606355359
+                }
+              ],
+              "dH_relfro_mean": 0.7076342488601691,
+              "fold": 4,
+              "structure_id": "Bulk19_chg0"
+            }
+          ]
+        },
+        "train": {
+          "H_relfro_mean": 0.004342569989901676,
+          "H_relfro_median": 0.004345538526605391,
+          "dH_relfro_mean": 0.7076523947231059,
+          "dH_relfro_median": 0.7076637469960113,
+          "n": 12,
+          "structures": [
+            {
+              "H_relfro": 0.004309666956044086,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7089429601756131
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.7089595711928628
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7089659311058344
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.7063480609262761
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7063214861139253
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.7063388417008533
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7063033085350587
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7062847948633352
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7062862687124656
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.7089488827120111
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7089564103217783
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.708968328654843
+                }
+              ],
+              "dH_relfro_mean": 0.7076354037512381,
+              "fold": 0,
+              "structure_id": "Perf_chg0"
+            },
+            {
+              "H_relfro": 0.00434634184165411,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7089303492703264
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.7089756855772598
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7089421724925546
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.7063039500058113
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7062687389064097
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.7062996480865441
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7063438131264057
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7063972738129989
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7063865308479951
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.7088921244023125
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7089431967500274
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.708928351135477
+                }
+              ],
+              "dH_relfro_mean": 0.7076343195345102,
+              "fold": 0,
+              "structure_id": "Bulk05_chg0"
+            },
+            {
+              "H_relfro": 0.004347648134451344,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7089953543092095
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.7090041309347934
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7090068793767758
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.706327227700828
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7063395735145007
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.7063222852590723
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7063445478426159
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7063055196405693
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7063142629625696
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.7090681525959845
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7090872409330394
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7090828064565912
+                }
+              ],
+              "dH_relfro_mean": 0.7076831651272125,
+              "fold": 0,
+              "structure_id": "Bulk10_chg0"
+            },
+            {
+              "H_relfro": 0.004333600513146021,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.708969443237172
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.7089445003748958
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7089757919834169
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.7063495514800109
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7063552236297557
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.7063485502675625
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7063415509309227
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.706289830803479
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7063192447578157
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.7089331671092849
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7089796737968183
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7089890629069793
+                }
+              ],
+              "dH_relfro_mean": 0.7076496326065095,
+              "fold": 0,
+              "structure_id": "Bulk15_chg0"
+            },
+            {
+              "H_relfro": 0.0043512615454052,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7091491615603265
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.7089935866440977
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7090060055776124
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.7062516662349375
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7063473077023608
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.7063590769832174
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7062594540084997
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7063139092685209
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7063145357832407
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.7089126513549735
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7089363963821989
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7089228649883341
+                }
+              ],
+              "dH_relfro_mean": 0.7076472180406933,
+              "fold": 1,
+              "structure_id": "Bulk01_chg0"
+            },
+            {
+              "H_relfro": 0.0043482627657448845,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7089989544325238
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.7090035200102751
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7089155245354726
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.7063506083156651
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7063507134005989
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.7063323988889249
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7063351182385947
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7062532021669746
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7062465261811351
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.7089587805115035
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7089429711822528
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7089895621411518
+                }
+              ],
+              "dH_relfro_mean": 0.7076398233337561,
+              "fold": 1,
+              "structure_id": "Bulk06_chg0"
+            },
+            {
+              "H_relfro": 0.004345389028950149,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7089352841213072
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.7089304740104979
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7089534890140362
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.7063719460635351
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7063557722385747
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.706362389814731
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7063305954885853
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7063416065146891
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7063329662952765
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.7090501663078964
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7090583164531593
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7090500768655497
+                }
+              ],
+              "dH_relfro_mean": 0.7076727569323199,
+              "fold": 1,
+              "structure_id": "Bulk11_chg0"
+            },
+            {
+              "H_relfro": 0.004340293822012681,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7089546561168594
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.7089441367737975
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7089728049821646
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.7063554569918084
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7063424178995705
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.7063312643400708
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7064185095696183
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.706304761090406
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7063915024471228
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.7089379102565428
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7089638250514595
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7089179509365894
+                }
+              ],
+              "dH_relfro_mean": 0.7076529330380009,
+              "fold": 1,
+              "structure_id": "Bulk16_chg0"
+            },
+            {
+              "H_relfro": 0.004343768978955471,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7090048664143043
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.7091275028275483
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7090280032751005
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.7063359576598749
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7063990339399717
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.7063389530664976
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7063475550784566
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7062536488149489
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7063084593367294
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.708890979892703
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7088956539500579
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7088914010321135
+                }
+              ],
+              "dH_relfro_mean": 0.7076518346073589,
+              "fold": 2,
+              "structure_id": "Bulk02_chg0"
+            },
+            {
+              "H_relfro": 0.004345688024260632,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7089756436219625
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.708933439060051
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7089604610087529
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.706354121134557
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.706345585514077
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.7063424090546626
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7064365140993196
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7062057736641437
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.706211346432746
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.7089561475484711
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7089553969203417
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7089737563214182
+                }
+              ],
+              "dH_relfro_mean": 0.7076375495317087,
+              "fold": 2,
+              "structure_id": "Bulk07_chg0"
+            },
+            {
+              "H_relfro": 0.004357013849762436,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7089618645343784
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.7089739098488513
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7089477131564088
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.7063433324569512
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7063313053999595
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.7063338378454235
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7063373323731044
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7062982756507158
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7062805008585252
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.7091576961727913
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7091276518971754
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7091767952436737
+                }
+              ],
+              "dH_relfro_mean": 0.7076891846198298,
+              "fold": 2,
+              "structure_id": "Bulk12_chg0"
+            },
+            {
+              "H_relfro": 0.0043419044184331,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7089312020518891
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.7089660917227327
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7089846210301809
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.7063540616139398
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7063414398440323
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.7063561682341062
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7063302276975982
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7063078412509057
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7063028418022382
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.708909731999087
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7089058669508932
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7089288924520081
+                }
+              ],
+              "dH_relfro_mean": 0.7076349155541344,
+              "fold": 2,
+              "structure_id": "Bulk17_chg0"
+            }
+          ]
+        },
+        "val": {
+          "H_relfro_mean": 0.004345856853777648,
+          "H_relfro_median": 0.004347251158765688,
+          "dH_relfro_mean": 0.7076539521049892,
+          "dH_relfro_median": 0.7076619247153011,
+          "n": 4,
+          "structures": [
+            {
+              "H_relfro": 0.004346516538465502,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7090023629478206
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.7089896519043052
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7090085165321953
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.7063170604533082
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.706316609720836
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.7062715478272776
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7063692042853973
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7063228819977098
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7063672340795768
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.7089455479439336
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7089932272323618
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7089141374626454
+                }
+              ],
+              "dH_relfro_mean": 0.7076514985322807,
+              "fold": 3,
+              "structure_id": "Bulk03_chg0"
+            },
+            {
+              "H_relfro": 0.004352681132711816,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7089250152832481
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.7090045278211148
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7089365623457368
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.7063360262836036
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7064044870383042
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.70640316429854
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7063601494317495
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7064160063385612
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7063715945947309
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.7089524657288939
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.708949967310607
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7089612697916862
+                }
+              ],
+              "dH_relfro_mean": 0.7076684363555645,
+              "fold": 3,
+              "structure_id": "Bulk08_chg0"
+            },
+            {
+              "H_relfro": 0.0043362439648673996,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7089628469252529
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.7089642492786139
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7089525684697244
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.7063459084371326
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7063679792777681
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.7063445062369981
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7063276982857258
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7062981194389902
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7062838248274272
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.7089816968837899
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.708959446803247
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7089514183076615
+                }
+              ],
+              "dH_relfro_mean": 0.7076450219310275,
+              "fold": 3,
+              "structure_id": "Bulk13_chg0"
+            },
+            {
+              "H_relfro": 0.004347985779065874,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.7089663954033465
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.708977336948393
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.7088981851114075
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.7063328206953774
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.7063326631329977
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.7063509612309083
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.7064256643191948
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.7062945136119737
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.7063579352590194
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.7089386730404228
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.7089503668700657
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.7089847035898943
+                }
+              ],
+              "dH_relfro_mean": 0.7076508516010834,
+              "fold": 3,
+              "structure_id": "Bulk18_chg0"
+            }
+          ]
+        }
+      }
+    },
+    "h_only": {
+      "ckpt": "/mnt/shared/work/dh_response_bulk_train/v2c/h_only_best.ckpt",
+      "splits": {
+        "test": {
+          "H_relfro_mean": 0.000388666122420121,
+          "H_relfro_median": 0.00039158040609910236,
+          "dH_relfro_mean": 0.6021487995737136,
+          "dH_relfro_median": 0.6020241605130028,
+          "n": 4,
+          "structures": [
+            {
+              "H_relfro": 0.00039448791071026497,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6002741920669504
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6004004156174634
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6004144536599889
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6036934221663763
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.6037458147306768
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6037371650642799
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6039265302409746
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.6039437179211666
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.6039564468495925
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6004585864807533
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6005193677328718
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6005222983052657
+                }
+              ],
+              "dH_relfro_mean": 0.6021327009030301,
+              "fold": 4,
+              "structure_id": "Bulk04_chg0"
+            },
+            {
+              "H_relfro": 0.000370702040618549,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6003836787422049
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6003439128193596
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.600313411181879
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6039784029374761
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.6038447630952803
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6038697720389016
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6035941366565938
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.603593948706244
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.6035260227207399
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6004699844154926
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6005175630351466
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6004516188613864
+                }
+              ],
+              "dH_relfro_mean": 0.602073934600892,
+              "fold": 4,
+              "structure_id": "Bulk09_chg0"
+            },
+            {
+              "H_relfro": 0.0003886729014879398,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6004597551392089
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6004009172541881
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6004510920462656
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6039850287003831
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.6039713683159658
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6039762863561464
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6039576784891213
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.6039201721850548
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.603942561972012
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6004584251091653
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6003983817391857
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6004460325768042
+                }
+              ],
+              "dH_relfro_mean": 0.6021973083236251,
+              "fold": 4,
+              "structure_id": "Bulk14_chg0"
+            },
+            {
+              "H_relfro": 0.00040080163686373026,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6003844963506375
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6004208481481839
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6004004075343669
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6039581734926516
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.6039750035372651
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6039547861771979
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.603873777417857
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.603826294066808
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.6039751821582111
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6005080572134277
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6005047586554612
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6005132688556167
+                }
+              ],
+              "dH_relfro_mean": 0.602191254467307,
+              "fold": 4,
+              "structure_id": "Bulk19_chg0"
+            }
+          ]
+        },
+        "train": {
+          "H_relfro_mean": 0.00037775676255715564,
+          "H_relfro_median": 0.0003929862409841051,
+          "dH_relfro_mean": 0.6021511088583774,
+          "dH_relfro_median": 0.6020515719696176,
+          "n": 12,
+          "structures": [
+            {
+              "H_relfro": 0.00015289349110414796,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6004238870643535
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6004444124602903
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6004415512880193
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6039880285197105
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.6039907595280943
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6039945258050583
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6040002369676709
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.6039571070673153
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.603995553481849
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6004868657261102
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6004921350529472
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6005067784579611
+                }
+              ],
+              "dH_relfro_mean": 0.6022268201182818,
+              "fold": 0,
+              "structure_id": "Perf_chg0"
+            },
+            {
+              "H_relfro": 0.0003886763906612219,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6004625006464064
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6004672939413505
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6004386423375005
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6036135404150448
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.6036520440580393
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6036235799669945
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6039481742385964
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.6039569997820715
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.6040150357860788
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6004754899820374
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6004684333256708
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6004794337736867
+                }
+              ],
+              "dH_relfro_mean": 0.6021334306877898,
+              "fold": 0,
+              "structure_id": "Bulk05_chg0"
+            },
+            {
+              "H_relfro": 0.0004244939957425816,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6003921934727442
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6004004158036713
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6004118993594405
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6039302054965608
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.6039335063202041
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6039338432746184
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6039420704601489
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.603896759374074
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.6039247655580615
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6004708250095524
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6002260931578561
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6002526677405146
+                }
+              ],
+              "dH_relfro_mean": 0.6021429370856205,
+              "fold": 0,
+              "structure_id": "Bulk10_chg0"
+            },
+            {
+              "H_relfro": 0.0003265419758210608,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6004437520890274
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6004462112444632
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6004187235481082
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6039656729900632
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.6039665133085439
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6039513855006273
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6039916896520539
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.6039341129669364
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.603969275613503
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6004728289041893
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6005136520398994
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6005625378592646
+                }
+              ],
+              "dH_relfro_mean": 0.6022196963097234,
+              "fold": 0,
+              "structure_id": "Bulk15_chg0"
+            },
+            {
+              "H_relfro": 0.00044187377234788494,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6000858082278591
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.5999854230495242
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6000286314757366
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6038108860227577
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.6038924183142518
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6038983294238525
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6038160121582513
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.6038600536866198
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.6038873442341971
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6004584051944156
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6004888377856552
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6004661714995582
+                }
+              ],
+              "dH_relfro_mean": 0.6020565267560566,
+              "fold": 1,
+              "structure_id": "Bulk01_chg0"
+            },
+            {
+              "H_relfro": 0.00039729609130698823,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6004049316267104
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6003670022115458
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6002653080378899
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6036080176441807
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.6036044972988969
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6035406060799706
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6039553787689406
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.6037935179741307
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.6038519709239326
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.600542415577178
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6005460793264965
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6004994123114354
+                }
+              ],
+              "dH_relfro_mean": 0.6020815948151091,
+              "fold": 1,
+              "structure_id": "Bulk06_chg0"
+            },
+            {
+              "H_relfro": 0.00041341781645698017,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6004385458626225
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.60040510028892
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6004012553092928
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6039639856345896
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.6039695267970868
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6039820266631597
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6039482756157735
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.6038949219421221
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.6039453142355902
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6002414702825943
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6002134068080722
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6002481926195004
+                }
+              ],
+              "dH_relfro_mean": 0.6021376685049437,
+              "fold": 1,
+              "structure_id": "Bulk11_chg0"
+            },
+            {
+              "H_relfro": 0.0003605341105019484,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6004076822274718
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6004060429452749
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6004284810129759
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6039645216727094
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.6039479570623917
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6039606352419604
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6040263361510461
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.6039394107785719
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.6040193491524526
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6005217297389966
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.600551002901167
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6005099270141866
+                }
+              ],
+              "dH_relfro_mean": 0.6022235896582672,
+              "fold": 1,
+              "structure_id": "Bulk16_chg0"
+            },
+            {
+              "H_relfro": 0.0004052177559978738,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6000496771837308
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6001438099308563
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6000298083591845
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6040345709863023
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.604091696689681
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6040345184353089
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6039175242148066
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.6038009626571353
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.6039160866615872
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6004885540962919
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6005082829341295
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6004831024072107
+                }
+              ],
+              "dH_relfro_mean": 0.6021248828796854,
+              "fold": 2,
+              "structure_id": "Bulk02_chg0"
+            },
+            {
+              "H_relfro": 0.0003859056851275382,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6004722929310349
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6004553264285634
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6004505458864969
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6039826013897333
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.6039342098642344
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6039325686304439
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.603635755639607
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.6036424983076061
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.603654795172939
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6004457881855139
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6005041085231089
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6004950533312334
+                }
+              ],
+              "dH_relfro_mean": 0.6021337953575429,
+              "fold": 2,
+              "structure_id": "Bulk07_chg0"
+            },
+            {
+              "H_relfro": 0.0004680466967837769,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6004109459787721
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6003891640351
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6003982683982684
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6039586769228927
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.6039796848827036
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6039470324279531
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6039668582362601
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.6039404244081816
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.6039485120192475
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6002847775301776
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6002641786121132
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6001029387795624
+                }
+              ],
+              "dH_relfro_mean": 0.6021326218526027,
+              "fold": 2,
+              "structure_id": "Bulk12_chg0"
+            },
+            {
+              "H_relfro": 0.0003681833688338643,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.600440137911485
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6003818258676886
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6004598966304058
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6039723021619385
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.6039491928503601
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6039710649824671
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6039203031093754
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.603934145249467
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.6039391238067066
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6004649599732117
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6004613428259329
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6005026119298489
+                }
+              ],
+              "dH_relfro_mean": 0.6021997422749074,
+              "fold": 2,
+              "structure_id": "Bulk17_chg0"
+            }
+          ]
+        },
+        "val": {
+          "H_relfro_mean": 0.00039305075325099694,
+          "H_relfro_median": 0.0004063235723052297,
+          "dH_relfro_mean": 0.6021853644086462,
+          "dH_relfro_median": 0.6021189191630367,
+          "n": 4,
+          "structures": [
+            {
+              "H_relfro": 0.00041907887066311894,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6001219757764689
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6001387563635604
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6003165721362448
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6038858019614292
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.603895050730568
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6038161376675288
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6040530784016148
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.604022820877866
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.6040944685962825
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6004623184560904
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.600513510955245
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6004940488205189
+                }
+              ],
+              "dH_relfro_mean": 0.602151211728618,
+              "fold": 3,
+              "structure_id": "Bulk03_chg0"
+            },
+            {
+              "H_relfro": 0.0004164977499727909,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6004369984744868
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6004905557798531
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.600456006590466
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6039375087911221
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.6039859484255814
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6040570031965637
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6036919204922211
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.603749688217081
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.603665250532574
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6005160641167406
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6004725783022135
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6005278184504483
+                }
+              ],
+              "dH_relfro_mean": 0.6021656117807792,
+              "fold": 3,
+              "structure_id": "Bulk08_chg0"
+            },
+            {
+              "H_relfro": 0.0003404769977304095,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6004265618191941
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6003726475905682
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6004187493808192
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6039371703133113
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.603947339396925
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.6039530661367061
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6039523797669365
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.6039281144674513
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.6039519803650957
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6005725877934994
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6005375981339489
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6005092138315558
+                }
+              ],
+              "dH_relfro_mean": 0.6022089507496676,
+              "fold": 3,
+              "structure_id": "Bulk13_chg0"
+            },
+            {
+              "H_relfro": 0.00039614939463766846,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.6004194928142156
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.6003853632241621
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.6003681284036692
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.6039752043032597
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.6039875992104654
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.603973937200582
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.6040271485746757
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.6039153070099879
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.6039959162812436
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.6005259814310016
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.6005395824088265
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.6004745396441464
+                }
+              ],
+              "dH_relfro_mean": 0.6022156833755196,
+              "fold": 3,
+              "structure_id": "Bulk18_chg0"
+            }
+          ]
+        }
+      }
+    },
+    "joint": {
+      "ckpt": "/mnt/shared/work/dh_response_bulk_train/v2c/joint_best.ckpt",
+      "splits": {
+        "test": {
+          "H_relfro_mean": 0.0010041316324026423,
+          "H_relfro_median": 0.001007990490244263,
+          "dH_relfro_mean": 0.28945054153840893,
+          "dH_relfro_median": 0.289527676248883,
+          "n": 4,
+          "structures": [
+            {
+              "H_relfro": 0.0010119300352777105,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.325692469229306
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.3256965882141042
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.32570023091763695
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.25337012476408494
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.2532360110440039
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.25322271678668934
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.25315924732444356
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.25317566402252945
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.2531969324909153
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.3257250161515114
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.32575414318778284
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.3257489380683936
+                }
+              ],
+              "dH_relfro_mean": 0.2894731735167834,
+              "fold": 4,
+              "structure_id": "Bulk04_chg0"
+            },
+            {
+              "H_relfro": 0.0009800367103354017,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.32571649516553347
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.32569340733585017
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.32570239710066046
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.25316047784614215
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.2530713545814976
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.25306458945044474
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.25315330774839784
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.25314806384786603
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.25324701360824986
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.3257666180374361
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.3257629793771778
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.3257202412381524
+                }
+              ],
+              "dH_relfro_mean": 0.2894339121114507,
+              "fold": 4,
+              "structure_id": "Bulk09_chg0"
+            },
+            {
+              "H_relfro": 0.0010040509452108153,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.3257554572020593
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.3257137489552702
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.3257575164441821
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.25315924274601836
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.253161678594084
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.25316289059902697
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.2531606365327336
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.2531289686228662
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.2531477597303559
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.3256962595999
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.325685227733681
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.32570086246410745
+                }
+              ],
+              "dH_relfro_mean": 0.2894358541020237,
+              "fold": 4,
+              "structure_id": "Bulk14_chg0"
+            },
+            {
+              "H_relfro": 0.0010205088387866413,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.3257662195532185
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.3257661164696171
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.32578691272641497
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.25319457271381957
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.2532286012272813
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.2531996818490403
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.2530789139482365
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.2530332742038305
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.2531635973476378
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.3257353368532856
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.3257847136631133
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.32577277652503883
+                }
+              ],
+              "dH_relfro_mean": 0.2894592264233778,
+              "fold": 4,
+              "structure_id": "Bulk19_chg0"
+            }
+          ]
+        },
+        "train": {
+          "H_relfro_mean": 0.0009830807677424533,
+          "H_relfro_median": 0.0010021635708631384,
+          "dH_relfro_mean": 0.2895507065737516,
+          "dH_relfro_median": 0.28957752543249216,
+          "n": 12,
+          "structures": [
+            {
+              "H_relfro": 0.0007502478301245586,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.325722827662854
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.3257176837677842
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.32572622655867817
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.253179655290021
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.2531737205987253
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.25317185249546653
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.25319509834053305
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.2531679797081236
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.253166694642099
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.32573472984211493
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.3257346043819521
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.3257274828250159
+                }
+              ],
+              "dH_relfro_mean": 0.2894515463427807,
+              "fold": 0,
+              "structure_id": "Perf_chg0"
+            },
+            {
+              "H_relfro": 0.0010040393369997037,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.3259157005714986
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.32581091575197474
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.325918968449462
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.25324989969510253
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.2533394005441573
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.2532465140727551
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.25317721141351673
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.25323341195151944
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.25331606068962503
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.3257772635084777
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.3257426773727581
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.32578309373355374
+                }
+              ],
+              "dH_relfro_mean": 0.2895425931462001,
+              "fold": 0,
+              "structure_id": "Bulk05_chg0"
+            },
+            {
+              "H_relfro": 0.001023717066520056,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.32571938943496836
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.3257573179699578
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.3257710377585287
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.2531700686403093
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.2531873074288593
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.25319838982052967
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.25317225291301054
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.25317137293915115
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.25317457866521376
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.32664420929156057
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.3262094095063216
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.32620718473399757
+                }
+              ],
+              "dH_relfro_mean": 0.2896152099252007,
+              "fold": 0,
+              "structure_id": "Bulk10_chg0"
+            },
+            {
+              "H_relfro": 0.0009236207297194019,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.3257483862419789
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.32573834887285363
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.32575368632701046
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.2531875118169786
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.25318509590134664
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.2531710976811949
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.25318859550855083
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.2531557135928954
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.2531631937605861
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.3258679348127836
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.3258786100471383
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.3258160663301845
+                }
+              ],
+              "dH_relfro_mean": 0.2894878534077919,
+              "fold": 0,
+              "structure_id": "Bulk15_chg0"
+            },
+            {
+              "H_relfro": 0.0010461692208129064,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.32680467188405354
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.3262989082557277
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.3263016773021716
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.2530109830016999
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.253135465306631
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.2531336292963963
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.2530094276008013
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.2531173908789851
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.25311321662818936
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.3257437640842451
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.3257626045116616
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.3257522915096601
+                }
+              ],
+              "dH_relfro_mean": 0.2895986691883519,
+              "fold": 1,
+              "structure_id": "Bulk01_chg0"
+            },
+            {
+              "H_relfro": 0.0010157422254863612,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.3257007409280465
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.32568380815341946
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.3256882274200826
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.2532384812200613
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.2532388752885632
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.25347124271156485
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.2531773536906365
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.2530348931211154
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.253046485983807
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.32575188166149927
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.3257495980917186
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.32572464273664814
+                }
+              ],
+              "dH_relfro_mean": 0.28945885258393017,
+              "fold": 1,
+              "structure_id": "Bulk06_chg0"
+            },
+            {
+              "H_relfro": 0.001009615639799892,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.32578042894984877
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.32571950217630996
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.325774116598419
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.25316257514372237
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.2531747559007246
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.25316850596768814
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.2531946715594665
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.2531304341067489
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.2531667667504485
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.3263410474056139
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.3267482814786852
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.32633648982197216
+                }
+              ],
+              "dH_relfro_mean": 0.2896414646549707,
+              "fold": 1,
+              "structure_id": "Bulk11_chg0"
+            },
+            {
+              "H_relfro": 0.0009666663309186848,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.3257381800458329
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.3257629892437566
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.32577734646933554
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.25315828056096185
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.25316544747928577
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.2531280957562477
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.25327326378221304
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.2531433676059627
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.253291948428462
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.3257469194719046
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.32577833225157743
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.3257899351649885
+                }
+              ],
+              "dH_relfro_mean": 0.28947950885504403,
+              "fold": 1,
+              "structure_id": "Bulk16_chg0"
+            },
+            {
+              "H_relfro": 0.0009992238081739876,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.3264696225478737
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.3267179290887474
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.3264783152226949
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.25326102561881947
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.25335161699792413
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.2532677784214691
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.253157091789887
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.25302347631787847
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.2531236924035588
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.32578272447179124
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.3257180976929034
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.3257764013186945
+                }
+              ],
+              "dH_relfro_mean": 0.2896773143243535,
+              "fold": 2,
+              "structure_id": "Bulk02_chg0"
+            },
+            {
+              "H_relfro": 0.0010002878047265728,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.3258397105109043
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.3259020551141183
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.32592165100416404
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.2531827437099114
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.25317104370108223
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.2531703326261129
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.253392139918435
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.2531926924731608
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.25319955095054164
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.325741605070355
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.3257694553457777
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.325770492556935
+                }
+              ],
+              "dH_relfro_mean": 0.2895211227484582,
+              "fold": 2,
+              "structure_id": "Bulk07_chg0"
+            },
+            {
+              "H_relfro": 0.001080894276124351,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.32577529164717667
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.32576003424884414
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.32573481397829224
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.2531771388020064
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.2531806051153752
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.2531640723106685
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.25318636060349886
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.25315380172078833
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.25313183639932463
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.3266037840312967
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.326602452637812
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.32651424210871355
+                }
+              ],
+              "dH_relfro_mean": 0.28966536946698307,
+              "fold": 2,
+              "structure_id": "Bulk12_chg0"
+            },
+            {
+              "H_relfro": 0.0009767449435029627,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.32577866808694994
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.3257366104210675
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.3257815176337872
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.25318163688924633
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.25317497415944673
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.25321501653713185
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.25317546631807575
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.25314831626533424
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.2531522035091936
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.3257675874658146
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.32574217481900736
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.3257735187863919
+                }
+              ],
+              "dH_relfro_mean": 0.2894689742409539,
+              "fold": 2,
+              "structure_id": "Bulk17_chg0"
+            }
+          ]
+        },
+        "val": {
+          "H_relfro_mean": 0.0010035021030496464,
+          "H_relfro_median": 0.0010154420210059432,
+          "dH_relfro_mean": 0.28954486213389,
+          "dH_relfro_median": 0.28957702920757183,
+          "n": 4,
+          "structures": [
+            {
+              "H_relfro": 0.0010167076501353585,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.3262865334482318
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.32629150733482476
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.32671653044657495
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.25312801378709016
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.25313163577791
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.2529955640640255
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.2533072309589254
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.253271724741029
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.25339032331145306
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.32576319233212647
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.32577132290552163
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.3257341952706333
+                }
+              ],
+              "dH_relfro_mean": 0.28964898119819543,
+              "fold": 3,
+              "structure_id": "Bulk03_chg0"
+            },
+            {
+              "H_relfro": 0.0010421972044108098,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.32594185276347637
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.3258177150976022
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.3259380458834289
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.25317617529489583
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.2532748635655213
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.25336466838081934
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.25326222539814314
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.25341986314451037
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.25326511593888557
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.32578497214707247
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.32573564685698486
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.32577110247435165
+                }
+              ],
+              "dH_relfro_mean": 0.2895626872454743,
+              "fold": 3,
+              "structure_id": "Bulk08_chg0"
+            },
+            {
+              "H_relfro": 0.0009409271657758888,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.325737482305634
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.32573601060910407
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.32575086364111316
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.2531654228744672
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.2531696254599426
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.2531718592194181
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.25313702733723387
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.253148991443554
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.253144501648024
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.3258199796262893
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.3258774022435666
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.3258701952024842
+                }
+              ],
+              "dH_relfro_mean": 0.28947744680090254,
+              "fold": 3,
+              "structure_id": "Bulk13_chg0"
+            },
+            {
+              "H_relfro": 0.0010141763918765279,
+              "components": [
+                {
+                  "atom": 60,
+                  "axis": 0,
+                  "dH_relfro": 0.325780237562023
+                },
+                {
+                  "atom": 60,
+                  "axis": 1,
+                  "dH_relfro": 0.3257726336901214
+                },
+                {
+                  "atom": 60,
+                  "axis": 2,
+                  "dH_relfro": 0.32576851134154766
+                },
+                {
+                  "atom": 28,
+                  "axis": 0,
+                  "dH_relfro": 0.2532062368652061
+                },
+                {
+                  "atom": 28,
+                  "axis": 1,
+                  "dH_relfro": 0.2532003020155695
+                },
+                {
+                  "atom": 28,
+                  "axis": 2,
+                  "dH_relfro": 0.25314393101040983
+                },
+                {
+                  "atom": 7,
+                  "axis": 0,
+                  "dH_relfro": 0.25333479833569844
+                },
+                {
+                  "atom": 7,
+                  "axis": 1,
+                  "dH_relfro": 0.25314321250141814
+                },
+                {
+                  "atom": 7,
+                  "axis": 2,
+                  "dH_relfro": 0.2532356935344762
+                },
+                {
+                  "atom": 32,
+                  "axis": 0,
+                  "dH_relfro": 0.3257826158223638
+                },
+                {
+                  "atom": 32,
+                  "axis": 1,
+                  "dH_relfro": 0.3257744602544798
+                },
+                {
+                  "atom": 32,
+                  "axis": 2,
+                  "dH_relfro": 0.3257413665585366
+                }
+              ],
+              "dH_relfro_mean": 0.28949033329098756,
+              "fold": 3,
+              "structure_id": "Bulk18_chg0"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "delta_angstrom": 0.001,
+  "n_structures": 20,
+  "splits": {
+    "test": [
+      "Bulk04_chg0",
+      "Bulk09_chg0",
+      "Bulk14_chg0",
+      "Bulk19_chg0"
+    ],
+    "train": [
+      "Perf_chg0",
+      "Bulk05_chg0",
+      "Bulk10_chg0",
+      "Bulk15_chg0",
+      "Bulk01_chg0",
+      "Bulk06_chg0",
+      "Bulk11_chg0",
+      "Bulk16_chg0",
+      "Bulk02_chg0",
+      "Bulk07_chg0",
+      "Bulk12_chg0",
+      "Bulk17_chg0"
+    ],
+    "val": [
+      "Bulk03_chg0",
+      "Bulk08_chg0",
+      "Bulk13_chg0",
+      "Bulk18_chg0"
+    ]
+  }
+}
