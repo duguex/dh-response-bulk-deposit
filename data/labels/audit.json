@@ -1,0 +1,455 @@
+{
+  "audit_campaign_fingerprint": "3db23b41e93979c91bccce5c2cc59038aa9777e302a781c923745f3eba4c7f9f",
+  "component_count": 20,
+  "components": [
+    {
+      "atom": 60,
+      "axis": 0,
+      "complete": true,
+      "component_id": "Perf_chg0_atom060_axis0",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.375649929046631,
+        2.3754169940948486,
+        2.3732807636260986
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 0.0009972704275848393,
+      "fold": 0,
+      "norm_cv": 0.0004489595678940254,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 60,
+      "axis": 1,
+      "complete": true,
+      "component_id": "Perf_chg0_atom060_axis1",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.3756496906280518,
+        2.3754169940948486,
+        2.3732805252075195
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 0.0009972705276702176,
+      "fold": 0,
+      "norm_cv": 0.0004489795135558965,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 60,
+      "axis": 2,
+      "complete": true,
+      "component_id": "Perf_chg0_atom060_axis2",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.3756518363952637,
+        2.375420093536377,
+        2.3732798099517822
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 0.0009984739376122894,
+      "fold": 0,
+      "norm_cv": 0.0004496246199814635,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 28,
+      "axis": 0,
+      "complete": true,
+      "component_id": "Perf_chg0_atom028_axis0",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.2699406147003174,
+        2.2698020935058594,
+        2.2690958976745605
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 0.0003721317730897367,
+      "fold": 0,
+      "norm_cv": 0.000162980225936287,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 60,
+      "axis": 0,
+      "complete": true,
+      "component_id": "Bulk01_chg0_atom060_axis0",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.373382329940796,
+        2.371720790863037,
+        2.371838092803955
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 0.0006506482825627768,
+      "fold": 1,
+      "norm_cv": 0.00031915032125349357,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 60,
+      "axis": 1,
+      "complete": true,
+      "component_id": "Bulk01_chg0_atom060_axis1",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.3740546703338623,
+        2.3732240200042725,
+        2.3729422092437744
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 0.00046859118452038245,
+      "fold": 1,
+      "norm_cv": 0.00019896498021274337,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 60,
+      "axis": 2,
+      "complete": true,
+      "component_id": "Bulk01_chg0_atom060_axis2",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.3740437030792236,
+        2.3732259273529053,
+        2.3729445934295654
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 0.00046296942563972884,
+      "fold": 1,
+      "norm_cv": 0.00019641994495105738,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 28,
+      "axis": 0,
+      "complete": true,
+      "component_id": "Bulk01_chg0_atom028_axis0",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.2707607746124268,
+        2.270618200302124,
+        2.26997709274292
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 0.0003451186396508873,
+      "fold": 1,
+      "norm_cv": 0.0001501167606582638,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 60,
+      "axis": 0,
+      "complete": true,
+      "component_id": "Bulk02_chg0_atom060_axis0",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.3713269233703613,
+        2.3723113536834717,
+        2.3730874061584473
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 0.0007424040821768124,
+      "fold": 2,
+      "norm_cv": 0.0003036749069348077,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 60,
+      "axis": 1,
+      "complete": true,
+      "component_id": "Bulk02_chg0_atom060_axis1",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.3709142208099365,
+        2.3719074726104736,
+        2.37233304977417
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 0.0005984311670916155,
+      "fold": 2,
+      "norm_cv": 0.0002506569683742007,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 60,
+      "axis": 2,
+      "complete": true,
+      "component_id": "Bulk02_chg0_atom060_axis2",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.3713228702545166,
+        2.3723080158233643,
+        2.3730878829956055
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 0.0007443156574032563,
+      "fold": 2,
+      "norm_cv": 0.0003044321832431653,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 28,
+      "axis": 0,
+      "complete": true,
+      "component_id": "Bulk02_chg0_atom028_axis0",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.2685489654541016,
+        2.268436908721924,
+        2.2677204608917236
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 0.0003652134359868603,
+      "fold": 2,
+      "norm_cv": 0.00016180465453659724,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 60,
+      "axis": 0,
+      "complete": true,
+      "component_id": "Bulk03_chg0_atom060_axis0",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.3732059001922607,
+        2.372724771499634,
+        2.3729701042175293
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 9.935757142367746e-05,
+      "fold": 3,
+      "norm_cv": 8.277942092116616e-05,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 60,
+      "axis": 1,
+      "complete": true,
+      "component_id": "Bulk03_chg0_atom060_axis1",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.3732059001922607,
+        2.372724771499634,
+        2.37296986579895
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 9.945803408436875e-05,
+      "fold": 3,
+      "norm_cv": 8.277889525078645e-05,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 60,
+      "axis": 2,
+      "complete": true,
+      "component_id": "Bulk03_chg0_atom060_axis2",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.371896982192993,
+        2.3721837997436523,
+        2.372421979904175
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 0.00022134085718016373,
+      "fold": 3,
+      "norm_cv": 9.04808703391539e-05,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 28,
+      "axis": 0,
+      "complete": true,
+      "component_id": "Bulk03_chg0_atom028_axis0",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.2712783813476562,
+        2.271165609359741,
+        2.2704875469207764
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 0.00034818912264318895,
+      "fold": 3,
+      "norm_cv": 0.0001537971942667703,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 60,
+      "axis": 0,
+      "complete": true,
+      "component_id": "Bulk04_chg0_atom060_axis0",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.375699758529663,
+        2.3751134872436523,
+        2.373216152191162
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 0.0010454209668472995,
+      "fold": 4,
+      "norm_cv": 0.0004463654460412483,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 60,
+      "axis": 1,
+      "complete": true,
+      "component_id": "Bulk04_chg0_atom060_axis1",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.376495361328125,
+        2.3760433197021484,
+        2.3739843368530273
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 0.0010566081953950663,
+      "fold": 4,
+      "norm_cv": 0.0004600512942217281,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 60,
+      "axis": 2,
+      "complete": true,
+      "component_id": "Bulk04_chg0_atom060_axis2",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.3764843940734863,
+        2.376042127609253,
+        2.37398362159729
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 0.0010522991366712755,
+      "fold": 4,
+      "norm_cv": 0.0004587215682457303,
+      "same_direction_endpoint_drift": false
+    },
+    {
+      "atom": 28,
+      "axis": 0,
+      "complete": true,
+      "component_id": "Bulk04_chg0_atom028_axis0",
+      "cv_passed": true,
+      "deltas_angstrom": [
+        0.0005,
+        0.001,
+        0.002
+      ],
+      "derivative_norms": [
+        2.268432855606079,
+        2.268558979034424,
+        2.2684249877929688
+      ],
+      "diagnostic_only_deltas": [],
+      "endpoint_relative_drift": 3.4683914451809698e-06,
+      "fold": 4,
+      "norm_cv": 2.7063895754566812e-05,
+      "same_direction_endpoint_drift": false
+    }
+  ],
+  "evidence_sample_count": 60,
+  "passed": true,
+  "passing_components": 20,
+  "qc_passed": true,
+  "qc_reason": "",
+  "required_passing_components": 16,
+  "schema": "dh-delta-audit-v1",
+  "selected_delta_angstrom": 0.001,
+  "source_manifest_sha256": "5cfab45e4f77632c1c3f1936b5ae7f057be693541620cdc6f11b195d136efd67"
+}

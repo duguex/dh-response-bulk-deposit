@@ -1,0 +1,6 @@
+{
+ "incident": "dh_dr unit mismatch: labels stored per-Angstrom while training FD runs per-Bohr; model physical response overscaled by 1.889716x",
+ "evidence": "relfro(cache, scfout FD) = 0.889700 = 1.889716 - 1 on 3 components; relfro(cache, factor*scfout) <= 9.5e-5; h_mid unaffected (2.4e-8)",
+ "fix": "dh_dr divided by 1.88972612 in this cache root; original v1 untouched",
+ "date": "2026-09-13"
+}
